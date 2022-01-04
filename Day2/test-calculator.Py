@@ -1,0 +1,16 @@
+a=int(input("enter the number"))
+b=int(input("enter the number"))
+c=a+b
+print("a+b= " ,c)
+d=float(input("enter the number"))
+e=float(input("enter the number"))
+f=d-e
+print("d-e= " ,f)
+g=int(input("enter the number"))
+h=int(input("enter the number"))
+i=g*h
+print("g*h= " ,i)
+j=int(input("enter the number"))
+k=int(input("enter the number"))
+l=j/k
+print("j/k= " ,l)
