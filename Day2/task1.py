@@ -1,0 +1,7 @@
+P= int(input("Enter the intial principal balence: "))
+R= int(input("enter the interest rate:  "))
+N= int(input("enter the number of times interest applied per time period: "))
+T= int(input("enter the number of time periods elapsed:  "))
+U= int(R/N)
+A=P*(1+R/N)^(U)
+print("the compound interest anount is",A)
